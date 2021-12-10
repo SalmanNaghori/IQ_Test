@@ -27,15 +27,10 @@ Description : Simple Android App it improve your IQ level.
 ![Untitled](https://user-images.githubusercontent.com/69813706/145392121-7516b9ec-6632-4a31-9bd6-46ea956617e2.jpg)
 
 ## Screenshot
-![Screenshot 2021-12-09 160648](https://user-images.githubusercontent.com/69813706/145382248-a15971ec-198c-46dc-8a2a-393c5e2f2e41.png)
-![Screenshot 2021-12-09 160907](https://user-images.githubusercontent.com/69813706/145382586-53be69c4-5c76-4f76-b38a-8750c32e89fa.jpg)
-![Screenshot 2021-12-09 160939](https://user-images.githubusercontent.com/69813706/145382708-ee6e2212-ed6d-40cb-b05f-85a9400326ba.jpg)
-![Screenshot 2021-12-09 161231](https://user-images.githubusercontent.com/69813706/145383625-4a13941a-2a38-4577-9848-d37846cb413d.jpg)
-![Screenshot 2021-12-09 161311](https://user-images.githubusercontent.com/69813706/145383666-0dcd4658-109b-4f39-935f-00a0ab1a7f44.jpg)
-![Screenshot 2021-12-09 163000](https://user-images.githubusercontent.com/69813706/145384428-e74374f2-346e-4b22-b479-a8859b4e739b.jpg)
-
-
-
+<img src="https://user-images.githubusercontent.com/69813706/145517996-543dd153-2300-4571-8bf6-ec557eb559b9.png" width="160" height="320" />  <img src="https://user-images.githubusercontent.com/69813706/145518114-a7175609-3cdf-4ac0-befd-d6c0a59f425f.png" width="160" height="320" /> <img src="https://user-images.githubusercontent.com/69813706/145518186-0c862197-3544-4a28-9e6e-6665c32cf114.png" width="160" height="320" />
+<img src="https://user-images.githubusercontent.com/69813706/145518247-96954304-eecc-41d6-bf0c-92d892435601.png" width="160" height="320" />
+<img src="https://user-images.githubusercontent.com/69813706/145518325-2bf603a8-88a5-4886-8bde-b45a1995e251.png" width="160" height="320" />
+<img src="https://user-images.githubusercontent.com/69813706/145518626-39c048b3-39e9-4e17-bf6d-4d5f95ff8fd7.jpg" width="160" height="320" />
 
 
 
